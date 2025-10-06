@@ -87,4 +87,3 @@ while True:
         break
     else:
         score = 0
-
